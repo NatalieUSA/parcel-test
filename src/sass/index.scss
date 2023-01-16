@@ -1,2 +1,43 @@
-@import './common';
-@import './example';
+// @import './common';
+// @import './example';
+
+//utils styles
+@import "./utils/vars";
+@import "./utils/visually-hidden";
+// @import "./utils/placeholders";
+@import "./base/normalize";
+// @import "./utils/mixins";
+
+//base styles
+@import "./base/base";
+@import "./base/reset";
+@import "./base/container";
+
+//layouts styles
+
+//components styles
+@import "./components/header";
+// @import "./components/logo";
+// @import "./components/menu";
+// @import "./components/hero";
+// @import "./components/features";
+// @import "./components/competition";
+// @import "./components/team";
+// @import "./components/socials";
+// @import "./components/clients";
+
+// @import "./components/filtr";
+// @import "./components/gallery";
+
+// @import "./components/footer";
+
+// @import "./components/modal";
+// @import "./components/register-form";
+
+
+
+
+// @import "";\
+
+
+// @import "./components/socials";

@@ -1,0 +1,21 @@
+.header {
+
+    &__container
+   { width: auto;
+    height: 520px;
+    background-color: aqua;
+}
+    &__group {
+        display: flex;
+
+    }
+}
+
+.logo__icon {
+    fill: rgb(255, 0, 119);
+    margin-right: auto;
+}
+.menu__icon {
+    fill: rgb(255, 0, 119);
+    border: rgb(255, 0, 119);
+}
